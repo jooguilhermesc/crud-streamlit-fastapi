@@ -1,0 +1,5 @@
+pandas
+streamlit
+psycogpg2
+sqlalchemy
+python-dotenv
